@@ -1,0 +1,52 @@
+{
+  "team": {
+    "id": "db8be378-506c-4a52-9762-331a11a115c8",
+    "key": "ZOF",
+    "name": "Zoft",
+    "cyclesEnabled": false
+  },
+  "initiative": {
+    "id": "19be6547-3a86-4143-ad67-37c1cfed3f09",
+    "name": "Launch Zoft Autonomous Solutions",
+    "url": "https://linear.app/zoft/initiative/launch-zoft-autonomous-solutions-7927991cc946",
+    "status": "Planned"
+  },
+  "project": {
+    "id": "7570a327-9d40-4b6c-bbb4-64f130be6c45",
+    "name": "Company Website v0.1",
+    "url": "https://linear.app/zoft/project/company-website-v01-360996f0a008",
+    "state": "backlog"
+  },
+  "initiative_project_relation": {
+    "id": "559f770d-11f3-4f66-893b-f70c449bb0a9"
+  },
+  "document": {
+    "id": "5b6aae3d-9fc7-46c4-9dda-0fca38022798",
+    "title": "Company Website v0.1 Delivery Brief",
+    "url": "https://linear.app/zoft/document/company-website-v01-delivery-brief-87c791ae2a00"
+  },
+  "project_update": {
+    "id": "b7d68054-3ced-4d32-a28c-144d346c9518",
+    "url": "https://linear.app/zoft/project/company-website-v01-360996f0a008/activity#project-update-b7d68054",
+    "health": "onTrack",
+    "body": "Website v0.1 is built and documented. Notion docs are published. GitHub push is blocked by token repo permissions."
+  },
+  "initiative_update": {
+    "id": "f28123b4-b788-4cfe-b26e-c9526527e783",
+    "url": "https://linear.app/zoft/initiative/launch-zoft-autonomous-solutions-7927991cc946/activity#initiative-update-f28123b4",
+    "health": "onTrack",
+    "body": "First autonomous-company delivery run is operational. Linear initiative/project/document/update records are active; GitHub repo permissions remain the next remediation."
+  },
+  "issue_update": {
+    "id": "3711c71e-b01b-421d-8527-bf0209a56f12",
+    "identifier": "ZOF-5",
+    "url": "https://linear.app/zoft/issue/ZOF-5/company-website-v01-with-sales-concierge-agent",
+    "project": {
+      "id": "7570a327-9d40-4b6c-bbb4-64f130be6c45",
+      "name": "Company Website v0.1"
+    }
+  },
+  "cycle": {
+    "skipped": "Team cycles are disabled in Linear for team ZOF"
+  }
+}
